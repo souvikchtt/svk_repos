@@ -1,0 +1,6 @@
+emp_id,name,company,location,salary,dept_id
+1,Muhammed MacIntyre,Wipro,Kolkata,40000,D1
+2,Barry French,,Bangalore,90000,D2
+3,Barry French,,Chennai,30000,D3
+4,Clay Rozendal,Wipro,Mumbai,55000,D4
+5,Carlos Soltero,Wipro,Hyderabad,35000,D5
